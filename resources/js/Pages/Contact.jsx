@@ -140,7 +140,7 @@ const ContactPage = () => {
                             <h3 className="font-semibold text-lg text-brown mb-4">
                                 Telepon
                             </h3>
-                            <p>+62 123 456 789</p>
+                            <p>+62 813 1811 5382</p>
                         </div>
 
                         {/* Email */}
@@ -148,7 +148,7 @@ const ContactPage = () => {
                             <h3 className="font-semibold text-lg text-brown mb-4">
                                 Email
                             </h3>
-                            <p>info@barbershop.com</p>
+                            <p>godsbarbershop@gmail.com</p>
                         </div>
                     </div>
                 </div>

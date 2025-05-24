@@ -10,7 +10,7 @@ const AboutPage = () => {
             {/* Section 1: Hero Section */}
             <section className="bg-brown text-white py-20 text-center">
                 <div className="container mx-auto px-6">
-                    <h1 className="text-4xl font-bold mb-4">Tentang Kami</h1>
+                    <h1 className="text-4xl font-bold mb-4">Dari kami</h1>
                     <p className="text-lg sm:text-xl mb-6">
                         Barbershop kami adalah tempat di mana keahlian dan
                         kenyamanan bertemu. Nikmati layanan grooming terbaik dan
@@ -33,7 +33,7 @@ const AboutPage = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div className="flex justify-center items-center">
                             <img
-                                src="/images/about-us.jpg"
+                                src="/images/our-story.jpg"
                                 alt="Our Story"
                                 className="w-full h-auto rounded-lg shadow-lg"
                             />
